@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-v5w9tm.ztna.pw/sitemap.xml
